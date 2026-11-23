@@ -1,5 +1,6 @@
 const CONFIG = {
-  SCRIPT_URL: '',
+  SCRIPT_URL:
+    'https://script.google.com/macros/s/AKfycbxJJWnH3gd7dKrqkyOn5VRB21doH-PaxKPEYiErNphgVzHsjsCo0x9INOmbZJxeu5HFtg/exec',
   STRICT_EXIT: true,
   STORAGE_KEY: 'yly_crisis_attempt_v1'
 };
